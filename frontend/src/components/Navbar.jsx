@@ -98,7 +98,7 @@ const Navbar = () => {
                     <NavLink
                         onClick={() => setVisible(false)}
                         className="py-2 pl-6 border"
-                        to="/home"
+                        to="/"
                     >
                         HOME
                     </NavLink>
